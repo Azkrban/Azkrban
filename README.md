@@ -12,7 +12,7 @@ My current Linux journey Mint/Cinnamon -> Fedora/KDE -> Arch/KDE -> Arch/Hyprlan
 
 ###  Languages & Tools:
 **Main:** Python, Java  
-**Also use:** PHP, Lua, HTML, CSS, JavaScript, SQL (MySQL)
+**Also use:** PHP, Lua, HTML, CSS, JavaScript, SQL (MySQL), Bash
 
 ### Currently Learning:
 Bash scripting and shell automation
