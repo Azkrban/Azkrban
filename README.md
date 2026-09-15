@@ -2,11 +2,23 @@
 
 ### About Me
 I am Azkrban a CS student from England.
-As of right i have been mainly learning how to use Linux bash scripting, creating custom dot files and overall just navigating using the terminal rather than a gui. its been a blast so far figuring out linux i am so excited to learn more.
+Transitioning into my second year of university i am really looking forward to what this year has in store for me.
+
+putting aside school work i gave really been venturing down the linux rabbit hole
+— bash scripting, custom dotfiles, tiling window managers.
 
 ###  Distro history:
 My current Linux journey Mint/Cinnamon -> Fedora/KDE -> Arch/KDE -> Arch/Hyprland -> cachyos/Hyprland
 
-###  Languages & Tools
-**Main:** Python, Java  https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white
+###  Languages & Tools:
+**Main:** Python, Java  
 **Also use:** PHP, Lua, HTML, CSS, JavaScript, SQL (MySQL)
+
+### Currently Learning:
+Bash scripting and shell automation
+Building and maintaining my own dotfiles
+Hyprland configuration and window manager tinkering
+
+### Reach ME:
+Discord:
+Email:
