@@ -21,4 +21,5 @@ Hyprland configuration and window manager tinkering
 
 ### Reach ME:
 Discord:
+
 Email:
