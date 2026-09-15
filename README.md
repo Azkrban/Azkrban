@@ -8,10 +8,17 @@ My current Linux journey Fedora/KDE -> Arch/KDE -> Arch/Hyprland -> cachyos/Hypr
 
 Languages i know and use: 
 Pyhton -> Main language(s)
-PHP 
+
+PHP
+
 Java -> Main language(s)
+
 Lua 
+
 HTML
+
 CSS 
+
 JavaScript
+
 SQL(mysql)
