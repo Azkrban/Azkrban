@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**Azkrban/Azkrban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Azkrban a CS student from England.
 
-Here are some ideas to get you started:
+As of right i have been mainly learning how to use Linux bash scripting, creating custom dot files and overall just navigating using the terminal rather than a gui. its been a blast so far figuring out linux i am so excited to learn more.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My current Linux journey Fedora/KDE -> Arch/KDE -> Arch/Hyprland -> cachyos/Hyprland
+
+Languages i know and use: 
+Pyhton -> Main language(s)
+PHP 
+Java -> Main language(s)
+Lua 
+HTML
+CSS 
+JavaScript
+SQL(mysql)
