@@ -4,7 +4,7 @@
 I am Azkrban a CS student from England.
 Transitioning into my second year of university i am really looking forward to what this year has in store for me.
 
-putting aside school work i gave really been venturing down the linux rabbit hole
+Putting aside school work i have been venturing down the linux rabbit hole in my own time
 — bash scripting, custom dotfiles, tiling window managers.
 
 ###  Distro history:
